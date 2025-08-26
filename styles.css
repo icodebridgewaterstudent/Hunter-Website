@@ -1,0 +1,30 @@
+h1 {
+    color:lch(60.6% 68.3 7.27);
+    font-family: Wingdings;
+    font-weight: 999999999999999999999999999999999999999999999999999999999999;
+    width: 800px;
+    height: 20000px;
+    
+}
+
+h2 {
+    color:saddlebrown;
+}
+p {
+font-size: xx-large;
+}
+#lorem-text{
+    font-family:sans-serif;
+}
+#wth{
+    font-size: xx-small;
+    font-weight: 900;
+}
+.ooga-booga{
+    font-weight: 600;
+    color: antiquewhite;
+    background-color: blueviolet;
+}
+body{
+    background-image: url("https://i2.cloudfable.net/styles/550x550/119.109/White/goofy-ahh-merch-apple-asf-long-shirt-20230316085151-epjsd24d.jpg")
+}
